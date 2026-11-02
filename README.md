@@ -8,13 +8,17 @@ Canal oficial de downloads e atualizações do WDA MultiPlay para Android.
 
 Na página da versão, abra **Assets** e baixe o arquivo `WDA-MultiPlay-VERSAO.apk`. O arquivo `SHA256SUMS-VERSAO.txt` permite conferir a integridade do download.
 
+Para instalar no Android, escolha o arquivo terminado em **.apk**. Os itens **Source code (zip)** e **Source code (tar.gz)** são arquivos gerados automaticamente pelo GitHub com o conteúdo deste repositório de distribuição, que contém o README.
+
 Compatibilidade: **Android 8.0 ou superior, 64 bits (arm64-v8a ou x86_64)**.
 
 ## Atualizações
 
 A partir da versão 1.6.17, abra **☰ → Configurações → Verificar atualizações**. A opção **Verificar ao abrir o app** consulta o GitHub no máximo uma vez por dia e pode ser desativada. Baixar e instalar continuam dependendo da sua ação.
 
-Se você usa uma versão anterior à 1.6.17, instale manualmente o APK oficial para obter esse recurso. As versões Release usam o mesmo pacote e certificado de produção para permitir a atualização da instalação existente.
+A partir da **1.6.19**, **Baixar atualização** mostra o progresso dentro do WDA. Depois, **Instalar atualização** abre a confirmação do Android. Na primeira vez, autorize **Permitir desta fonte** para o WDA quando solicitado. O app verifica o arquivo e recupera o download ao reabrir.
+
+Se você usa a **1.6.18 ou anterior**, instale manualmente o APK da 1.6.19 uma vez para obter o download integrado. As versões Release usam o mesmo pacote e certificado de produção para permitir a atualização da instalação existente, sem desinstalar o WDA.
 
 ## Integridade e privacidade
 

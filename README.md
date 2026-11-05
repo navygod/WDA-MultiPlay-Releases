@@ -14,9 +14,11 @@ Compatibilidade: **Android 8.0 ou superior, 64 bits (arm64-v8a ou x86_64)**.
 
 ## Atualizações
 
-A partir da versão 1.6.17, abra **☰ → Configurações → Verificar atualizações**. A opção **Verificar ao abrir o app** consulta o GitHub no máximo uma vez por dia e pode ser desativada. Baixar e instalar continuam dependendo da sua ação.
+A partir da versão 1.6.17, abra **☰ → Configurações → Verificar atualizações**. A opção **Verificar ao abrir o app** consulta o GitHub no máximo uma vez por dia e pode ser desativada.
 
 A partir da **1.6.19**, **Baixar atualização** mostra o progresso dentro do WDA. Depois, **Instalar atualização** abre a confirmação do Android. Na primeira vez, autorize **Permitir desta fonte** para o WDA quando solicitado. O app verifica o arquivo e recupera o download ao reabrir.
+
+A partir da **1.6.31**, a opção **Baixar e instalar automaticamente** vem ligada. O WDA baixa o APK oficial (inclusive por dados móveis), confere integridade e certificado e aguarda o aplicativo aberto e sem reprodução para instalar. Android 12 ou superior pode permitir a autoatualização sem nova confirmação; quando exigir, a tela oficial será apresentada. A autorização **Permitir desta fonte** continua necessária. Cancelar ou negar não repete automaticamente a mesma versão; use os botões manuais para tentar novamente. Não existe busca periódica com o app fechado. Instale a 1.6.31 pelo fluxo anterior uma vez para obter a automação das próximas versões.
 
 Se você usa a **1.6.18 ou anterior**, instale manualmente o APK da 1.6.19 uma vez para obter o download integrado. As versões Release usam o mesmo pacote e certificado de produção para permitir a atualização da instalação existente, sem desinstalar o WDA.
 

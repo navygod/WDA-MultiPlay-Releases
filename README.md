@@ -14,7 +14,7 @@ Compatibilidade: **Android 8.0 ou superior, 64 bits (arm64-v8a ou x86_64)**.
 
 ## Atualizações
 
-A partir da versão 1.6.17, abra **☰ → Configurações → Verificar atualizações**. A opção **Verificar ao abrir o app** consulta o GitHub no máximo uma vez por dia e pode ser desativada.
+A partir da versão 1.6.17, abra **☰ → Configurações → Verificar atualizações**. Na **1.6.51**, a opção **Verificar ao abrir o app** consulta o GitHub a cada abertura ou retorno ao aplicativo, com intervalo mínimo de 60 segundos, e pode ser desativada. Ao reabrir antes disso, a busca aguarda o tempo restante com o app aberto. Uma versão nova mostra o selo **1** no menu e em Atualizações nas Configurações. O menu oferece **Atualizações · 1** como acesso direto. O selo permanece até instalar a versão ou uma consulta confirmar que não há novidade.
 
 A partir da **1.6.19**, **Baixar atualização** mostra o progresso dentro do WDA. Depois, **Instalar atualização** abre a confirmação do Android. Na primeira vez, autorize **Permitir desta fonte** para o WDA quando solicitado. O app verifica o arquivo e recupera o download ao reabrir.
 

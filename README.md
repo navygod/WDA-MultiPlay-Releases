@@ -36,6 +36,8 @@ As verificações locais de integridade e assinatura não constituem aprovação
 
 Este repositório público distribui APKs, notas e checksums. O código-fonte do aplicativo é mantido em um repositório privado. Chaves de assinatura, senhas e arquivos locais não são distribuídos.
 
-As licenças e os links dos componentes de terceiros estão disponíveis no aplicativo em **Baixar → Licenças dos componentes**. Entre eles estão [yt-dlp](https://github.com/yt-dlp/yt-dlp), [Chaquopy](https://github.com/chaquo/chaquopy), [Python](https://github.com/python/cpython), [certifi](https://github.com/certifi/python-certifi) e [LAME/lamejs](https://github.com/zhuker/lamejs).
+As licenças e os links dos componentes de terceiros estão disponíveis no aplicativo em **☰ → Baixar vídeo ou MP3 → Licenças dos componentes**. Entre eles estão [yt-dlp](https://github.com/yt-dlp/yt-dlp), [Chaquopy](https://github.com/chaquo/chaquopy), [Python](https://github.com/python/cpython), [certifi](https://github.com/certifi/python-certifi) e [LAME/lamejs](https://github.com/zhuker/lamejs).
 
 Contato: [@web.devanalytics](https://www.instagram.com/web.devanalytics/).
+
+Na **1.6.49**, a barra mostra apenas **Tema → ☰ → Somente áudio → ⌃**. Toque na **logo ou no nome WDA** para voltar ao Início. YouTube, Biblioteca, downloads, janela flutuante e chat ficam no menu. Modo teatro foi removido; a tela cheia do vídeo continua disponível.

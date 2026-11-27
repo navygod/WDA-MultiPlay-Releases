@@ -43,3 +43,5 @@ Contato: [@web.devanalytics](https://www.instagram.com/web.devanalytics/).
 Na **1.6.49**, a barra mostra apenas **Tema → ☰ → Somente áudio → ⌃**. Toque na **logo ou no nome WDA** para voltar ao Início. YouTube, Biblioteca, downloads, janela flutuante e chat ficam no menu. Modo teatro foi removido; a tela cheia do vídeo continua disponível.
 
 Na **1.6.50**, Somente áudio preserva o volume efetivo do vídeo, incluindo atenuação e mudo. O nível é conferido novamente ao concluir a troca e permanece ao pausar, retomar e avançar na mesma sessão. Os botões físicos continuam controlando o volume de mídia do Android.
+
+Na **1.6.52**, sair da tela cheia volta à vertical com os controles visíveis. As seleções do Mix ficam em duas colunas quando há espaço. Somente áudio ganha aleatório e repetição da música atual ou de toda a fila; o temporizador tem prioridade. Durante uma live, **Chat** aparece na barra superior para abrir ou fechar a conversa sem entrar no menu.

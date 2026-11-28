@@ -1,5 +1,7 @@
 # WDA MultiPlay
 
+**Atualização 1.6.55:** corrigida a declaração auxiliar de áudio e adaptada a consulta inicial de microfone do YouTube à WebView. Menu glass e animações preservados. [Notas e limites](docs/releases/1.6.55.md).
+
 Canal oficial de downloads e atualizações do WDA MultiPlay para Android.
 
 ## Download

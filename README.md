@@ -1,6 +1,6 @@
 # WDA MultiPlay
 
-**Atualização 1.6.55:** corrigida a declaração auxiliar de áudio e adaptada a consulta inicial de microfone do YouTube à WebView. Menu glass e animações preservados. [Notas e limites](https://github.com/navygod/WDA-MultiPlay-Releases/releases/tag/v1.6.55).
+**Atualização 1.6.55:** corrigida a declaração auxiliar de áudio e adaptada a consulta inicial de microfone do YouTube à WebView. Menu glass e animações preservados. O proprietário confirmou o funcionamento da busca por voz no Redmi Note 13 Pro 5G com Android 16. [Notas e limites](https://github.com/navygod/WDA-MultiPlay-Releases/releases/tag/v1.6.55).
 
 Canal oficial de downloads e atualizações do WDA MultiPlay para Android.
 
